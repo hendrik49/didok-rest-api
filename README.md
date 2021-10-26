@@ -1,13 +1,6 @@
-# Express REST API - Node.JS + TypeScript
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![node](https://img.shields.io/node/v/express) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+# Express REST API - Node.JS 
 
 Structure for node.js projects involving typescript
-
-## Getting Started
-
-Hello, my name is Lucas Bruno, and I am providing this framework, which has been very helpful to me during the development of REST APIs using Node.js and TypeScript. Hope you enjoy, any feedback and pull request is very welcome!
-
 
 ### Prerequisites
 
@@ -112,12 +105,7 @@ docker run -d -p 8080:8080 nodejs-api
 * [Eslint](https://eslint.org/) - The pluggable linting utility for JavaScript
 * [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles
 
-
 ## References
 
 * [Santiq](https://softwareontheroad.com/ideal-nodejs-project-structure/?utm_source=devto&utm_medium=post) - Bulletproof node.js project architecture
 * [RocketSeat](https://github.com/Rocketseat/youtube-typescript-nodejs) - Project code produced during TypeScript video on NodeJS
-
-## Authors
-
-*  [Lucas Bruno Ferreira](https://github.com/Lucasbrunoferreira)

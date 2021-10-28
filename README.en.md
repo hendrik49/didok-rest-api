@@ -1,24 +1,9 @@
 # Unit Testing Express.js with PostgreSQL | [Demo](https://unit-test-express-postgres.herokuapp.com/api-docs) &middot; ![Github CI Node.js PostgreSQL]
 
 ## About This Project
-> *This is a simple repository as an example of implementhing unit testing using continuous integration (CI) using github actions and continuous deployment (CD) on heroku, created using express.js (one of the frameworks of node.js), mocha as a test runner, chai as library assertion and istanbul to see the coverage testing and use postgresql as the database. This event is registered at https://www.dicoding.com/events/2988*
+> *This is a simple repository as an example of implementhing unit testing using continuous integration (CI) using github actions and continuous deployment (CD) on heroku
 
 > [Read in English Version](README.en.md)
-
-### Deskripsi :
-- This repository is the final result of the source code that is created at a live streaming event [Create REST API with Automated Testing using Express.js](https://www.dicoding.com/events/2988/).
-- Live streaming videos can be viewed at [twitch.com/faritw](https://www.twitch.tv/videos/558640300), for a list of the material is as follows :
-  - Opening = in minutes (12:12:13)
-  - Session 1 - Create Rest API with Express.js manually = in minutes (00:16:50 - 01:24:10)
-  - Session 1 - Creating Documentation Rest API with Swagger = in minutes (01:24:50)
-  - Session 1 - Rest = in minutes (01:53:00 - 02:15:27)
-  - Session 1 - Continue to Make Rest API Documentation with Swagger = in minutes (02:15:30)
-  - Session 1 - Completed = in minutes (02:36:27)
-  - Session 2 - Intro Automated Testing = in minutes (02:45:32)
-  - Session 2 - Start to make Unit Testing = in minutes (02:52:40 - 05:19:15)
-  - Session 2 - Making configuration Github Actions for Continuous Integration = in minutes (05:20:00)
-  - Session 2 - Deploy to Heroku and create CIs / CDs from Github Actions and activate Automatic Deploy on Heroku = in minutes (05:41:55 - 06:51:20)
-  - Session 2 - Conclusion and Closing = in minutes (06:51:30)
 
 ### Dokumentasi : 
 REST API documentation of this project : [unit-test-express-postgres.herokuapp.com/api-docs](https://unit-test-express-postgres.herokuapp.com/api-docs).
@@ -131,9 +116,6 @@ Run the server, can use `npm` or` thread` :
 npm run start or yarn start
 ```
 Then, you can access this project at the address : http://localhost:3000, for the swagger documentation you can access it at this address : http://localhost:3000/api-docs/
-
-## The original version source code
-The original source code of the live streaming results is [in this commit](https://github.com/MuhammadFariMadyan/unit-testing-express-postgres/tree/3b744c6e72bd2bc0b1a4dcee65f6be21e5329650).
 
 ## Links & Resources
 - [Node.js](https://nodejs.org/en/download)

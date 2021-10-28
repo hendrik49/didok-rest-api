@@ -1,26 +1,9 @@
 # Unit Testing Express.js with PostgreSQL | [Demo](https://unit-test-express-postgres.herokuapp.com/api-docs) &middot; ![Github CI Node.js PostgreSQL]
 
 ## Tentang Proyek ini
-> *Ini adalah repositori sederhana sebagai contoh dari penerapan unit testing menggunakan continuous integration (CI) menggunakan github actions dan continuous deployment (CD) di heroku, yang dibuat menggunakan express.js (salah satu framework dari node.js), mocha sebagai test runnner, chai sebagai assertion library dan istanbul untuk melihat coverage testingnya serta menggunakan postgresql sebagai databasenya. Event ini terdaftar di https://www.dicoding.com/events/2988*
+> *Ini adalah repositori sederhana sebagai contoh dari penerapan unit testing menggunakan continuous integration (CI) menggunakan github actions dan continuous deployment (CD) di heroku
 
 > [Read in English Version](README.en.md)
-
-### Deskripsi :
-- Repositori ini adalah hasil akhir dari source code yang dibuat pada acara live streaming [Create REST API with Automated Testing using Express.js](https://www.dicoding.com/events/2988/).
-- Video live streaming dapat dilihat di [twitch.com/faritw](https://www.twitch.tv/videos/558640300), untuk daftar materi nya adalah sebagai berikut :
-  - Pembukaan = di menit (00:12:13)
-  - Sesi 1 - Create Rest API with Express.js secara manual = di menit (00:16:50 - 01:24:10)
-  - Sesi 1 - Membuat Dokumentasi Rest API dengan Swagger = di menit (01:24:50)
-  - Sesi 1 - Break Istirahat = di menit (01:53:00 - 02:15:27)
-  - Sesi 1 - Lanjut Membuat Dokumentasi Rest API dengan Swagger = di menit (02:15:30)
-  - Sesi 1 - Selesai = di menit (02:36:27)
-  - Sesi 2 - Sekilas tentang Automated Testing = di menit (02:45:32)
-  - Sesi 2 - Mulai membuat Unit Testing = di menit (02:52:40 - 05:19:15)
-  - Sesi 2 - Membuat konfigurasi Github Actions untuk CI = di menit (05:20:00)
-  - Sesi 2 - Deploy ke Heroku serta membuat CD nya aktif di Heroku =
-di menit (05:41:55 - 06:51:20)
-  - Sesi 2 - Kesimpulan dan Penutup = di menit (06:51:30)
-
 ### Dokumentasi : 
 Dokumentasi REST API dari proyek ini : [unit-test-express-postgres.herokuapp.com/api-docs](https://unit-test-express-postgres.herokuapp.com/api-docs).
 #### Tangkapan layar :
@@ -133,8 +116,6 @@ npm run start or yarn start
 ```
 Lalu, anda dapat mengakses proyek ini di alamat : http://localhost:3000, untuk dokumentasi swaggernya anda dapat mengaksesnya di alamat ini : http://localhost:3000/api-docs/
 
-## Versi source code asli
-Source code asli dari hasil live streaming adalah [di commit ini](https://github.com/MuhammadFariMadyan/unit-testing-express-postgres/tree/3b744c6e72bd2bc0b1a4dcee65f6be21e5329650).
 
 ## Tautan & Sumber Daya
 - [Node.js](https://nodejs.org/en/download)

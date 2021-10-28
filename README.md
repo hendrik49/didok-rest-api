@@ -1,4 +1,4 @@
-# Unit Testing Express.js with PostgreSQL | [Demo](https://unit-test-express-postgres.herokuapp.com/api-docs) &middot; ![Github CI Node.js PostgreSQL]
+# Unit Testing Express.js with PostgreSQL ; ![Github CI Node.js PostgreSQL]
 
 ## Tentang Proyek ini
 > *Ini adalah repositori sederhana sebagai contoh dari penerapan unit testing menggunakan continuous integration (CI) menggunakan github actions dan continuous deployment (CD) di heroku
